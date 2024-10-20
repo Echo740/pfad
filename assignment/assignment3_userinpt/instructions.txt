@@ -1,0 +1,4 @@
+Users can change the background color of the website by selecting the color picker.
+Users can also enter a color name or HEX code to change the background color of the website.
+The HEX code of the selected color is also displayed in real time.
+The user can also select the text color of the website according to the available options.
